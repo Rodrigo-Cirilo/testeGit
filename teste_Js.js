@@ -14,4 +14,5 @@ fetch('http://worldtimeapi.org/api/timezone/Europe/Amsterdam')
     // do something with data here
      console.log(data)
      console.log(dados);
+     console.log(dados);
   });
